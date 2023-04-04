@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ef0525dc3fb15408d1ed20f123aff7, type: 3}
+  m_Name: HealthPoints
+  m_EditorClassIdentifier: 
+  Name: HP
+  stats:
+    armor: 0
+    hp: 0
+    level: 0
+    speed: 0
+  upgrades:
+  - {fileID: 11400000, guid: 4bf78ccc13c638242a78ccea9a38bb05, type: 2}
+  - {fileID: 11400000, guid: 69b14c614ab076546b65044cbf9ff4be, type: 2}
+  - {fileID: 11400000, guid: 378244627d8ec7f448a6e071b4366d19, type: 2}
+  - {fileID: 11400000, guid: feb5f6af2a603964e8c5ef0aa155f4e0, type: 2}
+  - {fileID: 11400000, guid: 8d7128f90d5c60848b7ac8f267999127, type: 2}
+  - {fileID: 11400000, guid: 01abb67af39b6d34894f54b7fce39ce5, type: 2}
+  - {fileID: 11400000, guid: 89a5d218dbe2bb647884cc3b948a3062, type: 2}
+  - {fileID: 11400000, guid: 1ce589062ac4b554ebd1ebf8bacc7d8e, type: 2}
+  - {fileID: 11400000, guid: 0a528223723b55f44b2d8ce0ecc11178, type: 2}
+  - {fileID: 11400000, guid: ef1c1fe3f5e230343a0fd46675f8d239, type: 2}
+  - {fileID: 11400000, guid: 6b66081040da63f4b992c909ae3f7d32, type: 2}
+  - {fileID: 11400000, guid: bfb0efc659f066445b55d92e66fa6d8a, type: 2}
+  - {fileID: 11400000, guid: d0403f3297fe9984da5df7e87ef2b46a, type: 2}
+  - {fileID: 11400000, guid: 74367917b63cf3243adeab6f521f2ada, type: 2}
+  - {fileID: 11400000, guid: 28b1b94e10969af4a98ad593bf19c829, type: 2}
+  - {fileID: 11400000, guid: d5a260cef05080647be6bb65d39ce996, type: 2}
+  - {fileID: 11400000, guid: e17d6f195ca8e0c44a0c8f7423b6e298, type: 2}
+  - {fileID: 11400000, guid: 69d93fba9f73f0142920e71245da4fc0, type: 2}
+  - {fileID: 11400000, guid: cfb6a74a57d995e4ea5a6d0ade9c748d, type: 2}

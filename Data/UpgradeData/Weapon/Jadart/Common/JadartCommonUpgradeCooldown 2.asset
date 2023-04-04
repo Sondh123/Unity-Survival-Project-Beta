@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee88c9b10bb42d641b782f655fb02dbe, type: 3}
+  m_Name: JadartCommonUpgradeCooldown 2
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  upgradeTier: 0
+  Name: Cooldown -
+  icon: {fileID: 220490733, guid: c62d9cbb91eb0d440ae45291be0f9a17, type: 3}
+  weaponData: {fileID: 11400000, guid: 9b4e42abce12dce4b81a5f5385e90331, type: 2}
+  weaponUpgradeStats:
+    level: 1
+    damage: 0
+    timeToAttack: -0.15
+    numberOfAttack: 0
+    area: 0
+    speed: 0
+    specialEffect: 
+  item: {fileID: 0}
+  itemStats:
+    armor: 0
+    hp: 0
+    level: 0
+    speed: 0

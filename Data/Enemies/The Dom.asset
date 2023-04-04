@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20eb561239f34b46afa1644cd6e57c0, type: 3}
+  m_Name: The Dom
+  m_EditorClassIdentifier: 
+  Name: The Dom
+  animatedPrefab: {fileID: 4257422641565858584, guid: f4a032b5d6fd07740913b99389b565ed,
+    type: 3}
+  stats:
+    moveSpeed: 3
+    hp: 1000
+    damage: 20
+    experience_reward: 1000

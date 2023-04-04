@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5ef0525dc3fb15408d1ed20f123aff7, type: 3}
+  m_Name: Speed
+  m_EditorClassIdentifier: 
+  Name: Speed
+  stats:
+    armor: 0
+    hp: 0
+    level: 0
+    speed: 0
+  upgrades:
+  - {fileID: 11400000, guid: f228cad77d362c744b917ae73070aab6, type: 2}
+  - {fileID: 11400000, guid: a6df360ac991db44e9c2ec11b149c9b4, type: 2}
+  - {fileID: 11400000, guid: ef03a7b93f732ad45a2f698c8da57183, type: 2}
+  - {fileID: 11400000, guid: fdc7c4f5979e08945b7db88089357ca9, type: 2}
+  - {fileID: 11400000, guid: dd0e92bb387cd0b43bd5d323cede0c75, type: 2}
+  - {fileID: 11400000, guid: 1dbfe09f6121a484ba1fb7b60d1a150d, type: 2}
+  - {fileID: 11400000, guid: a344e4d4e98ef1247ad14ea90672cecc, type: 2}
+  - {fileID: 11400000, guid: 4828aaa414d9ea044922fe5c8989d67e, type: 2}
+  - {fileID: 11400000, guid: 154a168e49656904497297bd819dfc46, type: 2}
+  - {fileID: 11400000, guid: 97203a4288161ab438d39284972ce4a2, type: 2}
+  - {fileID: 11400000, guid: 925a40bcbf427a340bdc65b3f6a53f30, type: 2}
+  - {fileID: 11400000, guid: 78d5a7d8b9196b04692f545d835c13ad, type: 2}
+  - {fileID: 11400000, guid: f5a64d2501e0db14ca56fb195b71ee6e, type: 2}
+  - {fileID: 11400000, guid: 79e424089c2ef234e8e11bd9dfcdb263, type: 2}
+  - {fileID: 11400000, guid: 4a3894d27ae0fd549a4433a558bc98ef, type: 2}
+  - {fileID: 11400000, guid: a56f5b26178f5854eb7d1ee47c9f8c49, type: 2}
+  - {fileID: 11400000, guid: f5f4f398a39c2b149930a84c1ac6876a, type: 2}
+  - {fileID: 11400000, guid: 351d3c64ca0e27446a59b424913cb312, type: 2}
+  - {fileID: 11400000, guid: 535d75c1a3fffa944b5075a7b6f69f8c, type: 2}

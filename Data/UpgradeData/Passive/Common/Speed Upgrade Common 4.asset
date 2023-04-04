@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee88c9b10bb42d641b782f655fb02dbe, type: 3}
+  m_Name: Speed Upgrade Common 4
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  upgradeTier: 0
+  Name: Speed Upgrade
+  icon: {fileID: 233550037, guid: 30c455ced08bf554782b96b1c0d57f68, type: 3}
+  weaponData: {fileID: 0}
+  weaponUpgradeStats:
+    level: 0
+    damage: 0
+    timeToAttack: 0
+    numberOfAttack: 0
+    area: 0
+    speed: 0
+    duration: 0
+    specialEffect: 
+  item: {fileID: 11400000, guid: d38bfa76f720fca47b8cefba2227366e, type: 2}
+  itemStats:
+    armor: 0
+    hp: 0
+    level: 1
+    speed: 0.6

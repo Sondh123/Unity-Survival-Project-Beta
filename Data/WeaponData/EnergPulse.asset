@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3896aa957aba24fb7774b8657c8ae2, type: 3}
+  m_Name: EnergPulse
+  m_EditorClassIdentifier: 
+  Name: Throwing Knife
+  stats:
+    level: 1
+    damage: 40
+    timeToAttack: 1.2
+    numberOfAttack: 2
+    area: 0
+    speed: 20
+    duration: 3
+    specialEffect: 
+  weaponBasePrefab: {fileID: 7753412983648043768, guid: e8baa1fb7c8795a42ba1109013e2dc47,
+    type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: 87cf6b0189ac32848a302b1a1132cec4, type: 2}
+  - {fileID: 11400000, guid: 55d395ce176488d499ee3ef195a7924d, type: 2}
+  - {fileID: 11400000, guid: 832a956704f037942a3aed82953788a0, type: 2}
+  - {fileID: 11400000, guid: 3c92f800c7ec2e844a565ea11ac7144f, type: 2}
+  - {fileID: 11400000, guid: 2f56df6996276774098666c190e3f443, type: 2}
+  - {fileID: 11400000, guid: a5a6a37cf77e4884581663778dcc7986, type: 2}
+  - {fileID: 11400000, guid: a47317fcaaf5508498f8dee063eb269a, type: 2}
+  - {fileID: 11400000, guid: de57f41ad160670428000483f7ea939c, type: 2}
+  - {fileID: 11400000, guid: 50456bc42cbc5084196d0a44c5df3814, type: 2}
+  - {fileID: 11400000, guid: fe9509acd1497e54598b77cd573b8ad4, type: 2}
+  - {fileID: 11400000, guid: 05d7f7da3adc1384087fbfab0ca99e05, type: 2}
+  - {fileID: 11400000, guid: 89015460aa7ea31498440b7323ebd49e, type: 2}
+  - {fileID: 11400000, guid: 429a110a327defd49b08cca0bdfec9ed, type: 2}
+  - {fileID: 11400000, guid: 6c03b166973a2a24cad66b9c986156d4, type: 2}
+  - {fileID: 11400000, guid: 296d5a0d6a7744a4fb02394c6a6e12b1, type: 2}
+  - {fileID: 11400000, guid: 30af11c21281ff24d992982d659e8ab8, type: 2}
+  - {fileID: 11400000, guid: e8602ec8a887c7042a944f9023188a1f, type: 2}
+  - {fileID: 11400000, guid: df419416c7c7b5d40ad33f1b27428aa7, type: 2}
+  - {fileID: 11400000, guid: 0f9400aa7db308d488f974a9a9bdf885, type: 2}
+  - {fileID: 11400000, guid: ca8a840f78216474aa7819af77261c68, type: 2}
+  - {fileID: 11400000, guid: 2e3fed0c5daa31448ab0c1e4d63a7e16, type: 2}
+  - {fileID: 11400000, guid: 57de997d75be98640866f0433b7c1efe, type: 2}
+  - {fileID: 11400000, guid: d1d06db9b5bdec745b3629e295b0f0e4, type: 2}
+  - {fileID: 11400000, guid: 2901bf3df4908ad44a4ac75e4cf20835, type: 2}
+  - {fileID: 11400000, guid: 66b16e6df5379db45b31365473dd9c6b, type: 2}
+  - {fileID: 11400000, guid: 7360c675cafe20b41a6d835f4b22749a, type: 2}
+  - {fileID: 11400000, guid: 6edbf2e1adbf25543b8051bc261def67, type: 2}
+  - {fileID: 11400000, guid: 7369f2943d372ad418c453dcae5b45bf, type: 2}
+  - {fileID: 11400000, guid: 57d7df4c31b58f34c8c4c8351b56fb8b, type: 2}
+  - {fileID: 11400000, guid: 5fe4bcc02886e674a941a2fb4c37ffb7, type: 2}
+  - {fileID: 11400000, guid: cdf594709888a9e4dbd2033d600936e2, type: 2}
+  - {fileID: 11400000, guid: b4cf7049a6dcbdc43a31c71bfb4743a7, type: 2}
+  - {fileID: 11400000, guid: 3fbe426b97e78784fb5e33d912fc6ae8, type: 2}
+  - {fileID: 11400000, guid: 38246eb0bc204864899ed689500a25bf, type: 2}
+  - {fileID: 11400000, guid: c95b24ca6db8e1c48a00f6522789dbc2, type: 2}
+  - {fileID: 11400000, guid: 1e377c533cde59c409f925d74c99cc7e, type: 2}
+  - {fileID: 11400000, guid: aba47c338c41a914ba70d1ea751e22dc, type: 2}
+  - {fileID: 11400000, guid: 4df344701f4419f41b4cda28c06ccd59, type: 2}
+  - {fileID: 11400000, guid: d11915b322ba4134fb88643fc057e176, type: 2}
+  - {fileID: 11400000, guid: 272a846b8b24f714080718a17ca8a718, type: 2}
+  - {fileID: 11400000, guid: 16377f1ba09a1834db7f6ee0fc1b582a, type: 2}

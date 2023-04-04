@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3896aa957aba24fb7774b8657c8ae2, type: 3}
+  m_Name: Jadart
+  m_EditorClassIdentifier: 
+  Name: Jadart
+  stats:
+    level: 1
+    damage: 50
+    timeToAttack: 1
+    numberOfAttack: 1
+    area: 0
+    speed: 100
+    duration: 2
+    specialEffect: 
+  weaponBasePrefab: {fileID: 7753412983648043768, guid: ada9b583458dc3044a7fa918196017e4,
+    type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: fac48cd4795ab4942b64f5a417dbe9c4, type: 2}
+  - {fileID: 11400000, guid: bc1f1f1ba3f1bbe4b8139d7d5511e75a, type: 2}
+  - {fileID: 11400000, guid: 424a1f812d515f6468d9053b01889b76, type: 2}
+  - {fileID: 11400000, guid: 5478b527667384f4eb6e14f9003da7c0, type: 2}
+  - {fileID: 11400000, guid: 147552f1fdfcbdd4abfda8a814410da8, type: 2}
+  - {fileID: 11400000, guid: e8d9cb7651402df428a95922c389ce6b, type: 2}
+  - {fileID: 11400000, guid: 82abc03cb153fff4e90521f770e42ac9, type: 2}
+  - {fileID: 11400000, guid: 7c46b920a976aa545962358f041abde6, type: 2}
+  - {fileID: 11400000, guid: b2bf7705fbe98bf47b680648c4d412fe, type: 2}
+  - {fileID: 11400000, guid: 3f5c47c185e30154c8d26f839ad0287e, type: 2}
+  - {fileID: 11400000, guid: 96f70f120aa47fb4eba901ad30d0aa6c, type: 2}
+  - {fileID: 11400000, guid: a49ec77dbf3a8db4ea82df912079da3a, type: 2}
+  - {fileID: 11400000, guid: 774ac3c4dd4967147bb015c363c165c0, type: 2}
+  - {fileID: 11400000, guid: f6ccb1b8c44be7c49b5f09bfd48fb5fe, type: 2}
+  - {fileID: 11400000, guid: 4852d4c754e731e4c976a48ad7e249f5, type: 2}
+  - {fileID: 11400000, guid: 289e61966a5fdb142bb22375666643da, type: 2}
+  - {fileID: 11400000, guid: 163395817c022454d976538b31bc9bb6, type: 2}
+  - {fileID: 11400000, guid: 2e45c9b8e0130854d9ead3e44443c0dd, type: 2}
+  - {fileID: 11400000, guid: ad196f4e80dcd814e91870e394ecd9d8, type: 2}
+  - {fileID: 11400000, guid: cfc44584b10f18e449159040aaa96981, type: 2}
+  - {fileID: 11400000, guid: ecf860902430136478274052b3044865, type: 2}
+  - {fileID: 11400000, guid: ca810771dc573ee4d86dc50df9014df3, type: 2}
+  - {fileID: 11400000, guid: c902af8c474b14c4baba275a1804c2c3, type: 2}
+  - {fileID: 11400000, guid: 2ac4516ad80996648a0152e502ae6602, type: 2}
+  - {fileID: 11400000, guid: d847f1b808a67bf4288cfbaee1fef877, type: 2}
+  - {fileID: 11400000, guid: c826331c04239fe449c60cac687d3649, type: 2}
+  - {fileID: 11400000, guid: f9eefb31e545e574c919c508358b26c0, type: 2}
+  - {fileID: 11400000, guid: f66dba69b0dea264e9e63871643a297b, type: 2}
+  - {fileID: 11400000, guid: 5c88cc53227648d4a82f8f26268b8232, type: 2}
+  - {fileID: 11400000, guid: 3a381dc19e209474f869c6349c2dc036, type: 2}
+  - {fileID: 11400000, guid: 72b7e5df7850d4c458d4106495fbff46, type: 2}
+  - {fileID: 11400000, guid: d5c9d46812a8eee47ac0d16b01fd7690, type: 2}
+  - {fileID: 11400000, guid: e86f3e90c5156c246906c23802d5aa39, type: 2}
+  - {fileID: 11400000, guid: 4bd84ddd5c4c7c747b7774459b23cbfd, type: 2}

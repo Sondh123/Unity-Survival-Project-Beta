@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3896aa957aba24fb7774b8657c8ae2, type: 3}
+  m_Name: TailTrap
+  m_EditorClassIdentifier: 
+  Name: TailTrap
+  stats:
+    level: 1
+    damage: 20
+    timeToAttack: 4
+    numberOfAttack: 1
+    area: 2
+    speed: 100
+    duration: 5
+    specialEffect: 
+  weaponBasePrefab: {fileID: 7753412983648043768, guid: 9177c6a2f1a989749b5271ce37cd806c,
+    type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: f417f75e71f6f314bb8b895e6593a3f1, type: 2}
+  - {fileID: 11400000, guid: e43460f61f0ce7d41af39925172a8a0a, type: 2}
+  - {fileID: 11400000, guid: ca4568ca667cdb54f9a8a64b16960951, type: 2}
+  - {fileID: 11400000, guid: 15aafad207613114fb54e7e26a04c2ae, type: 2}
+  - {fileID: 11400000, guid: a06120abe5d8f7a478a0a683ca5d6385, type: 2}
+  - {fileID: 11400000, guid: 7febad3304cf0e349b91d3775b4c9271, type: 2}
+  - {fileID: 11400000, guid: bd74a5f747b1ffe4880f2a9913963186, type: 2}
+  - {fileID: 11400000, guid: 54597805af9c47842b6b661f1337f24c, type: 2}
+  - {fileID: 11400000, guid: feb3468cc24176d428430295aa77d100, type: 2}
+  - {fileID: 11400000, guid: f04c470ecaa6ef44294c1b9bec5faa00, type: 2}
+  - {fileID: 11400000, guid: 7c69447330cdc864c9446685d4117399, type: 2}
+  - {fileID: 11400000, guid: 777d2086c3d1f9448965350702eb27dd, type: 2}
+  - {fileID: 11400000, guid: 7591aea77d97d8f4588a4f90e7b496b9, type: 2}
+  - {fileID: 11400000, guid: a201ba51911bd9340b2b48d2569a285c, type: 2}
+  - {fileID: 11400000, guid: 73d38f5bdf8fbff4fb55d8a201b93c84, type: 2}
+  - {fileID: 11400000, guid: 26a980edaabd9c047a7fb304a66b624e, type: 2}
+  - {fileID: 11400000, guid: 52bfc9d1f8c206e4d8db2fea5f91f6f0, type: 2}
+  - {fileID: 11400000, guid: 41247641a1e463b45957a9108a427d58, type: 2}
+  - {fileID: 11400000, guid: 48334c816d7fc73479c974df77eeb369, type: 2}
+  - {fileID: 11400000, guid: 210204274d8374244b2f1bfd5140e3be, type: 2}
+  - {fileID: 11400000, guid: fe15c999acbd8f34c86263b800c939aa, type: 2}
+  - {fileID: 11400000, guid: 343a7d48afd53a44698e8ac15bec42b1, type: 2}
+  - {fileID: 11400000, guid: 9b623e3c2f7ba6742b62446e47c198aa, type: 2}
+  - {fileID: 11400000, guid: b7ad0e2d123071c4fba7f8fa6ff2b1e5, type: 2}
+  - {fileID: 11400000, guid: 037a5d1ae7f62ad40893c7ff66b3e883, type: 2}
+  - {fileID: 11400000, guid: 8a30af7ca509aa24f94c1b32dc89c32d, type: 2}
+  - {fileID: 11400000, guid: 9f22ae355ad2b6a4589a23a8db1a1588, type: 2}
+  - {fileID: 11400000, guid: 397eef2ac1b2f0d4fb21379f20916194, type: 2}
+  - {fileID: 11400000, guid: 4e4535c8179f70f44bb97b108f99dc72, type: 2}
+  - {fileID: 11400000, guid: 96a103f49075b1a42ad4fa9e90ad8589, type: 2}
+  - {fileID: 11400000, guid: f54f22d8b8fcdb04a8a9824696afe8bb, type: 2}

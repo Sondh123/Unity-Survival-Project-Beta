@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa6a5adbdaaf4544991531af4b5da968, type: 3}
+  m_Name: Stage 1 Data 1
+  m_EditorClassIdentifier: 
+  stageEvents:
+  - eventType: 0
+    time: 1
+    message: Phase 1
+    enemyToSpawn: {fileID: 11400000, guid: 52cba9b1f53715341b2736ac7a52677d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 2
+    repeatCount: 200
+  - eventType: 0
+    time: 30
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 7d65a6725526f144c88f5661535431e4, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 3
+    isRepeatedEvent: 1
+    repeatEverySecond: 3
+    repeatCount: 100
+  - eventType: 2
+    time: 30
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 6524653769679865714, guid: 583bf8b193784bd46aaf55224a93ac94,
+      type: 3}
+    number: 10
+    isRepeatedEvent: 0
+    repeatEverySecond: 15
+    repeatCount: 100
+  - eventType: 2
+    time: 60
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 3951636482263985716, guid: 37ef30159773d4c46985bea34902d3c5,
+      type: 3}
+    number: 30
+    isRepeatedEvent: 0
+    repeatEverySecond: 20
+    repeatCount: 10000
+  - eventType: 2
+    time: 180
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 7998483200065424236, guid: 4590f2834f6582b4dbfbc0b494d7387a,
+      type: 3}
+    number: 50
+    isRepeatedEvent: 0
+    repeatEverySecond: 10
+    repeatCount: 1
+  - eventType: 0
+    time: 30
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: b080554b0633fc842bae147201e919ab, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 10
+    repeatCount: 10
+  - eventType: 0
+    time: 120
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 52cba9b1f53715341b2736ac7a52677d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 5
+    repeatCount: 100
+  - eventType: 0
+    time: 120
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: b080554b0633fc842bae147201e919ab, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 2
+    isRepeatedEvent: 1
+    repeatEverySecond: 20
+    repeatCount: 20
+  - eventType: 0
+    time: 250
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: d19724b352a255645a541859d8eb613c, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 2
+    isRepeatedEvent: 1
+    repeatEverySecond: 5
+    repeatCount: 90
+  - eventType: 0
+    time: 300
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 061893f4aaab55141a4ad47a48b998ee, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 10
+    repeatCount: 15
+  - eventType: 0
+    time: 300
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 52cba9b1f53715341b2736ac7a52677d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 3
+    isRepeatedEvent: 1
+    repeatEverySecond: 1
+    repeatCount: 1000
+  - eventType: 1
+    time: 400
+    message: RUN!
+    enemyToSpawn: {fileID: 11400000, guid: cf27e01e6bad3ab44b43ac46aab3c93f, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 0
+    repeatEverySecond: 10
+    repeatCount: 1
+  - eventType: 0
+    time: 500
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 928456b83b05d184c9bee014f9b26d91, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 10
+    repeatCount: 40
+  - eventType: 2
+    time: 500
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 7647256108009714055, guid: 4a0e0dfa1f07af941b83e52d2f723d48,
+      type: 3}
+    number: 20
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
+  - eventType: 0
+    time: 550
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: ce8045fb80a610344b7a1c55c96d089d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 2
+    isRepeatedEvent: 1
+    repeatEverySecond: 3
+    repeatCount: 20
+  - eventType: 0
+    time: 550
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: b080554b0633fc842bae147201e919ab, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 1
+    repeatCount: 30
+  - eventType: 0
+    time: 600
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 928456b83b05d184c9bee014f9b26d91, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 1
+    repeatCount: 30
+  - eventType: 0
+    time: 600
+    message: 0
+    enemyToSpawn: {fileID: 11400000, guid: b080554b0633fc842bae147201e919ab, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 3
+    repeatCount: 30
+  - eventType: 2
+    time: 600
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 7998483200065424236, guid: 4590f2834f6582b4dbfbc0b494d7387a,
+      type: 3}
+    number: 57
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
+  - eventType: 0
+    time: 600
+    message: 0
+    enemyToSpawn: {fileID: 11400000, guid: ce8045fb80a610344b7a1c55c96d089d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 8
+    repeatCount: 20
+  - eventType: 0
+    time: 650
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 7d65a6725526f144c88f5661535431e4, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 2
+    isRepeatedEvent: 1
+    repeatEverySecond: 5
+    repeatCount: 100
+  - eventType: 1
+    time: 650
+    message: okk
+    enemyToSpawn: {fileID: 11400000, guid: cf27e01e6bad3ab44b43ac46aab3c93f, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 4
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
+  - eventType: 0
+    time: 700
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 868592926f86fec42ab3194264cf0c65, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 2
+    isRepeatedEvent: 1
+    repeatEverySecond: 1
+    repeatCount: 10
+  - eventType: 0
+    time: 750
+    message: 0
+    enemyToSpawn: {fileID: 11400000, guid: ce8045fb80a610344b7a1c55c96d089d, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 1
+    repeatEverySecond: 4
+    repeatCount: 25
+  - eventType: 2
+    time: 800
+    message: 
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 7647256108009714055, guid: 4a0e0dfa1f07af941b83e52d2f723d48,
+      type: 3}
+    number: 50
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
+  - eventType: 1
+    time: 900
+    message: BOSS!
+    enemyToSpawn: {fileID: 11400000, guid: b05db549473c11d478135e286adcbdeb, type: 2}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
+  - eventType: 3
+    time: 1200
+    message: okk
+    enemyToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    number: 1
+    isRepeatedEvent: 0
+    repeatEverySecond: 1
+    repeatCount: 300
